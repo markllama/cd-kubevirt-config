@@ -1,0 +1,4 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<jenkins.plugins.parameter__separator.ParameterSeparatorDefinition_-ParameterSeparatorDescriptor plugin="parameter-separator@1.0">
+  <globalSeparatorStyle></globalSeparatorStyle>
+</jenkins.plugins.parameter__separator.ParameterSeparatorDefinition_-ParameterSeparatorDescriptor>
