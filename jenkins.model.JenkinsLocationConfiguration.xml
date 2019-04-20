@@ -1,5 +1,4 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <jenkins.model.JenkinsLocationConfiguration>
-  <adminAddress>markllama+jenkins@gmail.com</adminAddress>
-  <jenkinsUrl>https://server.lamourine.homeunix.org:8443/</jenkinsUrl>
+  <jenkinsUrl>http://server.lamourine.homeunix.org:8080/</jenkinsUrl>
 </jenkins.model.JenkinsLocationConfiguration>
